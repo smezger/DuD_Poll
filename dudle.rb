@@ -85,7 +85,8 @@ class Dudle
 			@tabs += @configtabs
 			@tabs << [_("Delete Poll"),"delete_poll.cgi"]
 			@tabs << ["",""]
-		else			
+		else
+			@tabs << [_("Examples"),"example.cgi"]
 			@tabs << [_("About"),"about.cgi"]
 		end
 		@tabs << [_("Customize"),"customize.cgi"]
