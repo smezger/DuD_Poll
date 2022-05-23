@@ -242,44 +242,7 @@ READY
 
 		@html.add_cookie("lang",@cgi["lang"],"/",Time.now + (1*60*60*24*365)) if @cgi.include?("lang")
 		@html << "</div>" # content
-		@html << "<div id='languageChooser'><form><select name='lang'>"
-		lang = [# sorted by native speakers according to English Wikipedia
-			["es", "Español"],# 480 million native speakers (2018)
-			["en", "English"],# 360–400 million (2006)
-			["ar", "اَلْعَرَبِيَّة"],# 310 million, all varieties (2011–2016)
-			["pt_BR", "Português brasileiro"],# 205 million (2011)
-			["ru", "русский"],# 150 million (2012)
-			["de", "Deutsch"],# 95 million (2014)
-			["it", "Italiano"],# 90 million (2012)
-			["tr", "Türkçe"],# 80 million (2021)
-			["fr", "Français"],# 76.8 million (2014)
-			["pl", "Polski"],# 45 million
-			["es_AR", "Español Argentino"],# 25–30 million
-			["nl", "Nederlands"],# 24 million (2016)
-			["sw", "Kiswahili"],# 15 million (2012)
-			["hu", "Magyar"],# 13 million (2002–2012)
-			["sv", "Svenska"],# 10 million (2018)
-			["cs", "Česky"],# 10.7 million (2015)
-			["bg", "български"],# 8 million
-			["da", "Dansk"],# 5.5 million (2012)
-			["fi", "Finnish"],# 5.4 million (2009–2012)
-			["he", "עִבְרִית"],# 5 million (2017)
-			["no", "Norsk"],# 4.32 million (2012)
-			["ca", "Català"],# 4.1 million (2012)
-			["gl", "Galego"],# 2.4 million (2012)
-			["et", "Eesti"],# 1.1 million (2012)
-			["eo", "Esperanto"]# estimated 1000 to several thousand (2016)
-		]
-		unless @hide_lang_chooser
-			lang.each{|short,long|
-				if short == GetText.locale.to_s
-					@html << "<option class='lang' value='#{short}' selected='selected'>#{long}</option>"
-				else
-					@html << "<option class='lang' value='#{short}'>#{long}</option>"
-				end
-			}
-		end
-		@html << "</select><input type='submit' value='#{CGI.escapeHTML(_('Select Language'))}' /></form></div>" # languageChooser
+		
 
 		@html << "</div>" # main
 		$conf.footer.each{|f| @html << f }
