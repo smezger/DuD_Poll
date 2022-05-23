@@ -182,8 +182,8 @@ msgstr ""
 "ingevoerd."
 
 #: ../authorization_required.cgi:53 ../not_found.cgi:36
-msgid "Return to DuD-Poll home and schedule a new poll"
-msgstr "Keer terug naar DuD-Poll home en plan een nieuwe poll"
+msgid "Return to MezBOX-Umfrage home and schedule a new poll"
+msgstr "Keer terug naar MezBOX-Umfrage home en plan een nieuwe poll"
 
 #: ../authorization_required.cgi:54
 msgid "You have to authorize yourself in order to access this page!"
@@ -365,8 +365,8 @@ msgid "Customize"
 msgstr "Aanpassen"
 
 #: ../dudle.rb:100
-msgid "DuD-Poll Home"
-msgstr "DuD-Poll Home"
+msgid "MezBOX-Umfrage Home"
+msgstr "MezBOX-Umfrage Home"
 
 #: ../dudle.rb:208 ../dudle.rb:226
 msgid "Previous"
@@ -452,15 +452,15 @@ msgstr ""
 "Groeten,\n"
 
 #: ../error.cgi:46
-msgid "Bug in DuD-Poll"
-msgstr "Fout in DuD-Poll"
+msgid "Bug in MezBOX-Umfrage"
+msgstr "Fout in MezBOX-Umfrage"
 
 #: ../error.cgi:48
 msgid ""
-"An error occurred while executing DuD-Poll.<br/>Please send an error report, "
+"An error occurred while executing MezBOX-Umfrage.<br/>Please send an error report, "
 "including your browser, operating system, and what you did to %{admin}."
 msgstr ""
-"Er is een fout opgetreden tijdens het uitvoeren van DuD-Poll.<br/>Stuur "
+"Er is een fout opgetreden tijdens het uitvoeren van MezBOX-Umfrage.<br/>Stuur "
 "alsjeblieft een melding hiervan, inclusief je browser, besturingssysteem, en "
 "wat je probeerde naar %{admin}"
 
@@ -616,8 +616,8 @@ msgid "Visit the poll yourself:"
 msgstr ""
 
 #: ../overview.rb:36
-msgid "Link to DuD-Poll about %{polltitle}"
-msgstr "Link naar DuD-Poll poll over %{polltitle}"
+msgid "Link to MezBOX-Umfrage about %{polltitle}"
+msgstr "Link naar MezBOX-Umfrage poll over %{polltitle}"
 
 #: ../participate.rb:59
 msgid "The changes were saved, you should be redirected to %{link}."

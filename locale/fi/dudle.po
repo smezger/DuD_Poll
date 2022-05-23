@@ -164,7 +164,7 @@ msgstr "Päästäksesi eteenpäin sinun tulee antaa salasana kättäjälle %{use
 
 #: ../authorization_required.cgi:53 ../not_found.cgi:36
 #, fuzzy
-msgid "Return to DuD-Poll home and schedule a new poll"
+msgid "Return to MezBOX-Umfrage home and schedule a new poll"
 msgstr "Palaa Dulden kotivalikkoon ja ajasta uusi kysely"
 
 #: ../authorization_required.cgi:54
@@ -347,8 +347,8 @@ msgid "Customize"
 msgstr "Kustomoi"
 
 #: ../dudle.rb:100
-msgid "DuD-Poll Home"
-msgstr "DuD-Poll pääsivu"
+msgid "MezBOX-Umfrage Home"
+msgstr "MezBOX-Umfrage pääsivu"
 
 #: ../dudle.rb:208 ../dudle.rb:226
 msgid "Previous"
@@ -434,15 +434,15 @@ msgstr ""
 
 #: ../error.cgi:46
 #, fuzzy
-msgid "Bug in DuD-Poll"
+msgid "Bug in MezBOX-Umfrage"
 msgstr "Bugi dudlessa"
 
 #: ../error.cgi:48
 msgid ""
-"An error occurred while executing DuD-Poll.<br/>Please send an error report, "
+"An error occurred while executing MezBOX-Umfrage.<br/>Please send an error report, "
 "including your browser, operating system, and what you did to %{admin}."
 msgstr ""
-"An error occurred while executing DuD-Poll.<br/>Please send an error report, "
+"An error occurred while executing MezBOX-Umfrage.<br/>Please send an error report, "
 "including your browser, operating system, and what you did to %{admin}."
 
 #: ../error.cgi:51
@@ -594,8 +594,8 @@ msgid "Visit the poll yourself:"
 msgstr "Vieraile kyselyssä"
 
 #: ../overview.rb:36
-msgid "Link to DuD-Poll about %{polltitle}"
-msgstr "Linkki DuD-Poll kyselyyn aiheella %{polltitle}"
+msgid "Link to MezBOX-Umfrage about %{polltitle}"
+msgstr "Linkki MezBOX-Umfrage kyselyyn aiheella %{polltitle}"
 
 #: ../participate.rb:59
 msgid "The changes were saved, you should be redirected to %{link}."

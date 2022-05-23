@@ -163,7 +163,7 @@ msgstr "من أجل المضي قدما، يجب عليك إعطاء كلمة م
 
 #: ../authorization_required.cgi:53 ../not_found.cgi:36
 #, fuzzy
-msgid "Return to DuD-Poll home and schedule a new poll"
+msgid "Return to MezBOX-Umfrage home and schedule a new poll"
 msgstr " العودة إلى دادل الاصل وجدولة استطلاع جديد"
 
 #: ../authorization_required.cgi:54
@@ -344,7 +344,7 @@ msgstr "يكيف"
 
 #: ../dudle.rb:100
 #, fuzzy
-msgid "DuD-Poll Home"
+msgid "MezBOX-Umfrage Home"
 msgstr "دودل الرئيسية"
 
 #: ../dudle.rb:208 ../dudle.rb:226
@@ -431,13 +431,13 @@ msgstr ""
 
 #: ../error.cgi:46
 #, fuzzy
-msgid "Bug in DuD-Poll"
+msgid "Bug in MezBOX-Umfrage"
 msgstr "علة في دادل"
 
 #: ../error.cgi:48
 #, fuzzy
 msgid ""
-"An error occurred while executing DuD-Poll.<br/>Please send an error report, "
+"An error occurred while executing MezBOX-Umfrage.<br/>Please send an error report, "
 "including your browser, operating system, and what you did to %{admin}."
 msgstr ""
 "حدث خطأ أثناء تنفيذ دودل. <br/> الرجاء إرسال تقرير عن الخطأبما في ذلك "
@@ -592,7 +592,7 @@ msgstr ":انتقل إلى الاستطلاع بنفسك"
 
 #: ../overview.rb:36
 #, fuzzy
-msgid "Link to DuD-Poll about %{polltitle}"
+msgid "Link to MezBOX-Umfrage about %{polltitle}"
 msgstr "رابط إلى استطلاع رأي حول %{polltitle}"
 
 #: ../participate.rb:59

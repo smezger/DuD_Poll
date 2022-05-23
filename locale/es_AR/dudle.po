@@ -174,7 +174,7 @@ msgid "In order to proceed, you have to give the password for user %{user}."
 msgstr "Para continuar, debe escribir la contraseña para el usuario %{user}."
 
 #: ../authorization_required.cgi:53 ../not_found.cgi:36
-msgid "Return to DuD-Poll home and schedule a new poll"
+msgid "Return to MezBOX-Umfrage home and schedule a new poll"
 msgstr "Regresa al inicio y programa una nueva encuesta"
 
 #: ../authorization_required.cgi:54
@@ -356,8 +356,8 @@ msgid "Customize"
 msgstr "Personalizar"
 
 #: ../dudle.rb:100
-msgid "DuD-Poll Home"
-msgstr "DuD-Poll Inicio"
+msgid "MezBOX-Umfrage Home"
+msgstr "MezBOX-Umfrage Inicio"
 
 #: ../dudle.rb:208 ../dudle.rb:226
 msgid "Previous"
@@ -443,15 +443,15 @@ msgstr ""
 "Sinceramente,\n"
 
 #: ../error.cgi:46
-msgid "Bug in DuD-Poll"
-msgstr "Error en DuD-Poll"
+msgid "Bug in MezBOX-Umfrage"
+msgstr "Error en MezBOX-Umfrage"
 
 #: ../error.cgi:48
 msgid ""
-"An error occurred while executing DuD-Poll.<br/>Please send an error report, "
+"An error occurred while executing MezBOX-Umfrage.<br/>Please send an error report, "
 "including your browser, operating system, and what you did to %{admin}."
 msgstr ""
-"Ocurrió un error mientras se ejecutaba DuD-Poll.<br/>Por favor envíe un reporte "
+"Ocurrió un error mientras se ejecutaba MezBOX-Umfrage.<br/>Por favor envíe un reporte "
 "del error, incluyendo su navegador, sistema operativo y lo que hizo a "
 "%{admin}."
 
@@ -610,8 +610,8 @@ msgid "Visit the poll yourself:"
 msgstr "Visita la encuesta:"
 
 #: ../overview.rb:36
-msgid "Link to DuD-Poll about %{polltitle}"
-msgstr "Link a encuesta de DuD-Poll acerca de %{polltitle}"
+msgid "Link to MezBOX-Umfrage about %{polltitle}"
+msgstr "Link a encuesta de MezBOX-Umfrage acerca de %{polltitle}"
 
 #: ../participate.rb:59
 msgid "The changes were saved, you should be redirected to %{link}."

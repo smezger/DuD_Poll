@@ -182,8 +182,8 @@ msgid "In order to proceed, you have to give the password for user %{user}."
 msgstr "Per procedere devi assegnare una password all'utente %{user}."
 
 #: ../authorization_required.cgi:53 ../not_found.cgi:36
-msgid "Return to DuD-Poll home and schedule a new poll"
-msgstr "Ritorna alla pagina principale di DuD-Poll e Programma un nuovo Sondaggio"
+msgid "Return to MezBOX-Umfrage home and schedule a new poll"
+msgstr "Ritorna alla pagina principale di MezBOX-Umfrage e Programma un nuovo Sondaggio"
 
 #: ../authorization_required.cgi:54
 msgid "You have to authorize yourself in order to access this page!"
@@ -367,8 +367,8 @@ msgid "Customize"
 msgstr "Personalizza"
 
 #: ../dudle.rb:100
-msgid "DuD-Poll Home"
-msgstr "Pagina Principale di DuD-Poll"
+msgid "MezBOX-Umfrage Home"
+msgstr "Pagina Principale di MezBOX-Umfrage"
 
 #: ../dudle.rb:208 ../dudle.rb:226
 msgid "Previous"
@@ -454,15 +454,15 @@ msgstr ""
 "Cordiali Saluti,\n"
 
 #: ../error.cgi:46
-msgid "Bug in DuD-Poll"
-msgstr "Errore in DuD-Poll"
+msgid "Bug in MezBOX-Umfrage"
+msgstr "Errore in MezBOX-Umfrage"
 
 #: ../error.cgi:48
 msgid ""
-"An error occurred while executing DuD-Poll.<br/>Please send an error report, "
+"An error occurred while executing MezBOX-Umfrage.<br/>Please send an error report, "
 "including your browser, operating system, and what you did to %{admin}."
 msgstr ""
-"Si è verificato un errore durante l'esecuzione di DuD-Poll.<br/>Si prega di "
+"Si è verificato un errore durante l'esecuzione di MezBOX-Umfrage.<br/>Si prega di "
 "inviare una segnalazione errori a %{admin}., fornedo il browser, il sistema "
 "operativo che stavi usando e cosa stavi facendo."
 
@@ -622,8 +622,8 @@ msgid "Visit the poll yourself:"
 msgstr ""
 
 #: ../overview.rb:36
-msgid "Link to DuD-Poll about %{polltitle}"
-msgstr "Link al sondaggio di DuD-Poll su %{polltitle}"
+msgid "Link to MezBOX-Umfrage about %{polltitle}"
+msgstr "Link al sondaggio di MezBOX-Umfrage su %{polltitle}"
 
 #: ../participate.rb:59
 msgid "The changes were saved, you should be redirected to %{link}."

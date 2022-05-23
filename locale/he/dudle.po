@@ -162,8 +162,8 @@ msgid "In order to proceed, you have to give the password for user %{user}."
 msgstr "כדי להמשיך, עליך לספק את הססמה למשתמש %{user}."
 
 #: ../authorization_required.cgi:53 ../not_found.cgi:36
-msgid "Return to DuD-Poll home and schedule a new poll"
-msgstr "לחזור לעמוד הבית של DuD-Poll ולתזמן סקר חדש"
+msgid "Return to MezBOX-Umfrage home and schedule a new poll"
+msgstr "לחזור לעמוד הבית של MezBOX-Umfrage ולתזמן סקר חדש"
 
 #: ../authorization_required.cgi:54
 msgid "You have to authorize yourself in order to access this page!"
@@ -341,8 +341,8 @@ msgid "Customize"
 msgstr "התאמה אישית"
 
 #: ../dudle.rb:100
-msgid "DuD-Poll Home"
-msgstr "עמוד הבית של DuD-Poll"
+msgid "MezBOX-Umfrage Home"
+msgstr "עמוד הבית של MezBOX-Umfrage"
 
 #: ../dudle.rb:208 ../dudle.rb:226
 msgid "Previous"
@@ -428,15 +428,15 @@ msgstr ""
 "בברכה,\n"
 
 #: ../error.cgi:46
-msgid "Bug in DuD-Poll"
-msgstr "באג ב־DuD-Poll"
+msgid "Bug in MezBOX-Umfrage"
+msgstr "באג ב־MezBOX-Umfrage"
 
 #: ../error.cgi:48
 msgid ""
-"An error occurred while executing DuD-Poll.<br/>Please send an error report, "
+"An error occurred while executing MezBOX-Umfrage.<br/>Please send an error report, "
 "including your browser, operating system, and what you did to %{admin}."
 msgstr ""
-"אירעה שגיאה בעת הפעלת DuD-Poll.<br/>נא לשלוח דוח שגיאה, לרבות תיאור הדפדפן, "
+"אירעה שגיאה בעת הפעלת MezBOX-Umfrage.<br/>נא לשלוח דוח שגיאה, לרבות תיאור הדפדפן, "
 "מערכת ההפעלה והפעולות שבוצעו מול %{admin}."
 
 #: ../error.cgi:51
@@ -585,8 +585,8 @@ msgid "Visit the poll yourself:"
 msgstr "ביקור הסקר בעצמך:"
 
 #: ../overview.rb:36
-msgid "Link to DuD-Poll about %{polltitle}"
-msgstr "קישור לסקר DuD-Poll בנושא %{polltitle}"
+msgid "Link to MezBOX-Umfrage about %{polltitle}"
+msgstr "קישור לסקר MezBOX-Umfrage בנושא %{polltitle}"
 
 #: ../participate.rb:59
 msgid "The changes were saved, you should be redirected to %{link}."

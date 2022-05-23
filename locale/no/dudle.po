@@ -161,8 +161,8 @@ msgid "In order to proceed, you have to give the password for user %{user}."
 msgstr "For å gå videre må du angi passord for bruker %{user}."
 
 #: ../authorization_required.cgi:53 ../not_found.cgi:36
-msgid "Return to DuD-Poll home and schedule a new poll"
-msgstr "Tilbake til DuD-Poll startside og lag et nytt avstemning"
+msgid "Return to MezBOX-Umfrage home and schedule a new poll"
+msgstr "Tilbake til MezBOX-Umfrage startside og lag et nytt avstemning"
 
 #: ../authorization_required.cgi:54
 msgid "You have to authorize yourself in order to access this page!"
@@ -342,8 +342,8 @@ msgid "Customize"
 msgstr "Tilpass"
 
 #: ../dudle.rb:100
-msgid "DuD-Poll Home"
-msgstr "DuD-Poll hjemmeside"
+msgid "MezBOX-Umfrage Home"
+msgstr "MezBOX-Umfrage hjemmeside"
 
 #: ../dudle.rb:208 ../dudle.rb:226
 msgid "Previous"
@@ -418,15 +418,15 @@ msgid ""
 msgstr ""
 
 #: ../error.cgi:46
-msgid "Bug in DuD-Poll"
-msgstr "Feil i DuD-Poll"
+msgid "Bug in MezBOX-Umfrage"
+msgstr "Feil i MezBOX-Umfrage"
 
 #: ../error.cgi:48
 msgid ""
-"An error occurred while executing DuD-Poll.<br/>Please send an error report, "
+"An error occurred while executing MezBOX-Umfrage.<br/>Please send an error report, "
 "including your browser, operating system, and what you did to %{admin}."
 msgstr ""
-"Et feil har oppstått i DuD-Poll. <br/> Vennligst rapporter den, inkludert "
+"Et feil har oppstått i MezBOX-Umfrage. <br/> Vennligst rapporter den, inkludert "
 "netleseren og operativsystem du bruker sammen med en beskrivelse av det du "
 "prøvde å gjøre til %{admin}."
 
@@ -581,8 +581,8 @@ msgid "Visit the poll yourself:"
 msgstr "Gå selv til avstemningen:"
 
 #: ../overview.rb:36
-msgid "Link to DuD-Poll about %{polltitle}"
-msgstr "Lenke til DuD-Poll avstemning om %{polltitle}"
+msgid "Link to MezBOX-Umfrage about %{polltitle}"
+msgstr "Lenke til MezBOX-Umfrage avstemning om %{polltitle}"
 
 #: ../participate.rb:59
 msgid "The changes were saved, you should be redirected to %{link}."

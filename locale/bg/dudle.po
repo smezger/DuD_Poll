@@ -182,8 +182,8 @@ msgid "In order to proceed, you have to give the password for user %{user}."
 msgstr "За да продължите трябва да въведете паролата за потребител %{user}."
 
 #: ../authorization_required.cgi:53 ../not_found.cgi:36
-msgid "Return to DuD-Poll home and schedule a new poll"
-msgstr "Върнете се към началото на DuD-Poll и създайте ново запитване"
+msgid "Return to MezBOX-Umfrage home and schedule a new poll"
+msgstr "Върнете се към началото на MezBOX-Umfrage и създайте ново запитване"
 
 #: ../authorization_required.cgi:54
 msgid "You have to authorize yourself in order to access this page!"
@@ -365,8 +365,8 @@ msgid "Customize"
 msgstr "Нагласи"
 
 #: ../dudle.rb:100
-msgid "DuD-Poll Home"
-msgstr "Начало на DuD-Poll"
+msgid "MezBOX-Umfrage Home"
+msgstr "Начало на MezBOX-Umfrage"
 
 #: ../dudle.rb:208 ../dudle.rb:226
 msgid "Previous"
@@ -452,15 +452,15 @@ msgstr ""
 "С уважение,\n"
 
 #: ../error.cgi:46
-msgid "Bug in DuD-Poll"
-msgstr "Грешка в DuD-Poll"
+msgid "Bug in MezBOX-Umfrage"
+msgstr "Грешка в MezBOX-Umfrage"
 
 #: ../error.cgi:48
 msgid ""
-"An error occurred while executing DuD-Poll.<br/>Please send an error report, "
+"An error occurred while executing MezBOX-Umfrage.<br/>Please send an error report, "
 "including your browser, operating system, and what you did to %{admin}."
 msgstr ""
-"Случи се грешка при изпълнението на DuD-Poll.<br/>Моля, изпратете доклад за "
+"Случи се грешка при изпълнението на MezBOX-Umfrage.<br/>Моля, изпратете доклад за "
 "грешката, включително браузъра си, операционната си система и какво "
 "направихте, адресиран до %{admin}."
 
@@ -615,8 +615,8 @@ msgid "Visit the poll yourself:"
 msgstr "Посетете запитването лично:"
 
 #: ../overview.rb:36
-msgid "Link to DuD-Poll about %{polltitle}"
-msgstr "Връзка до DuD-Poll запитване относно %{polltitle}"
+msgid "Link to MezBOX-Umfrage about %{polltitle}"
+msgstr "Връзка до MezBOX-Umfrage запитване относно %{polltitle}"
 
 #: ../participate.rb:59
 msgid "The changes were saved, you should be redirected to %{link}."

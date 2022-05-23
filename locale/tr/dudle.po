@@ -165,7 +165,7 @@ msgid "In order to proceed, you have to give the password for user %{user}."
 msgstr "Devam etmek için %{user} kullanıcısının şifresini giriniz."
 
 #: ../authorization_required.cgi:53 ../not_found.cgi:36
-msgid "Return to DuD-Poll home and schedule a new poll"
+msgid "Return to MezBOX-Umfrage home and schedule a new poll"
 msgstr "Anasayfaya dönün ve yeni bir anket planlayın"
 
 #: ../authorization_required.cgi:54
@@ -348,8 +348,8 @@ msgid "Customize"
 msgstr "Özelleştirme"
 
 #: ../dudle.rb:100
-msgid "DuD-Poll Home"
-msgstr "DuD-Poll Anasayfası"
+msgid "MezBOX-Umfrage Home"
+msgstr "MezBOX-Umfrage Anasayfası"
 
 #: ../dudle.rb:208 ../dudle.rb:226
 msgid "Previous"
@@ -435,15 +435,15 @@ msgstr ""
 "Saygılarımla\n"
 
 #: ../error.cgi:46
-msgid "Bug in DuD-Poll"
-msgstr "DuD-Poll'da Hata"
+msgid "Bug in MezBOX-Umfrage"
+msgstr "MezBOX-Umfrage'da Hata"
 
 #: ../error.cgi:48
 msgid ""
-"An error occurred while executing DuD-Poll.<br/>Please send an error report, "
+"An error occurred while executing MezBOX-Umfrage.<br/>Please send an error report, "
 "including your browser, operating system, and what you did to %{admin}."
 msgstr ""
-"DuD-Poll yürütülürken bir hata oluştu.<br/>Lütfen tarayıcınız, işletim "
+"MezBOX-Umfrage yürütülürken bir hata oluştu.<br/>Lütfen tarayıcınız, işletim "
 "sisteminiz ve yaptıklarınızı içeren bir hata raporu gönderin: %{admin}"
 
 #: ../error.cgi:51
@@ -594,8 +594,8 @@ msgid "Visit the poll yourself:"
 msgstr "Anketi kendiniz ziyaret edin:"
 
 #: ../overview.rb:36
-msgid "Link to DuD-Poll about %{polltitle}"
-msgstr "%{polltitle} hakkında DuD-Poll anketine bağlantı"
+msgid "Link to MezBOX-Umfrage about %{polltitle}"
+msgstr "%{polltitle} hakkında MezBOX-Umfrage anketine bağlantı"
 
 #: ../participate.rb:59
 msgid "The changes were saved, you should be redirected to %{link}."

@@ -85,8 +85,7 @@ class Dudle
 			@tabs += @configtabs
 			@tabs << [_("Delete Poll"),"delete_poll.cgi"]
 			@tabs << ["",""]
-		else
-			@tabs << [_("Examples"),"example.cgi"]
+		else			
 			@tabs << [_("About"),"about.cgi"]
 		end
 		@tabs << [_("Customize"),"customize.cgi"]
@@ -97,7 +96,7 @@ class Dudle
 	end
 	def breadcrumbs
 		crumbs = $conf.breadcrumbs
-		crumbs << "<a href='#{@basedir}'>" + _("DuD-Poll Home") + "</a>"
+		crumbs << "<a href='#{@basedir}'>" + _("MezBOX-Umfrage Home") + "</a>"
 		if is_poll?
 			if @tab == "."
 				crumbs << CGI.escapeHTML(@title)
@@ -134,13 +133,13 @@ class Dudle
 			@is_config = configfiles.include?(@tab)
 			@wizzardindex = configfiles.index(@tab) if @is_config
 
-			@html = HTML.new("DuD-Poll - #{@title} - #{@tabtitle}",params[:relative_dir])
+			@html = HTML.new("MezBOX-Umfrage - #{@title} - #{@tabtitle}",params[:relative_dir])
 			@html.add_html_head('<meta name="robots" content="noindex, nofollow" />')
 			@html.header["Cache-Control"] = "no-cache"
 		else
 			@basedir = "."
 			inittabs
-			@title = params[:title] || "DuD-Poll"
+			@title = params[:title] || "MezBOX-Umfrage"
 			@html = HTML.new(@title,params[:relative_dir])
 		end
 

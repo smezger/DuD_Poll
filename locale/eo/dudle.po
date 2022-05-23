@@ -173,8 +173,8 @@ msgid "In order to proceed, you have to give the password for user %{user}."
 msgstr "Por antaŭeniĝi necesas enigi pasvorton de uzanto %{user}."
 
 #: ../authorization_required.cgi:53 ../not_found.cgi:36
-msgid "Return to DuD-Poll home and schedule a new poll"
-msgstr "Reiri al DuD-Poll-hejmpaĝo kaj estigi novan voĉdonilon"
+msgid "Return to MezBOX-Umfrage home and schedule a new poll"
+msgstr "Reiri al MezBOX-Umfrage-hejmpaĝo kaj estigi novan voĉdonilon"
 
 #: ../authorization_required.cgi:54
 msgid "You have to authorize yourself in order to access this page!"
@@ -354,8 +354,8 @@ msgid "Customize"
 msgstr "Agordi"
 
 #: ../dudle.rb:100
-msgid "DuD-Poll Home"
-msgstr "DuD-Poll ĉefpaĝo"
+msgid "MezBOX-Umfrage Home"
+msgstr "MezBOX-Umfrage ĉefpaĝo"
 
 #: ../dudle.rb:208 ../dudle.rb:226
 msgid "Previous"
@@ -441,15 +441,15 @@ msgstr ""
 "Altestime,\n"
 
 #: ../error.cgi:46
-msgid "Bug in DuD-Poll"
-msgstr "Program-eraro en DuD-Poll"
+msgid "Bug in MezBOX-Umfrage"
+msgstr "Program-eraro en MezBOX-Umfrage"
 
 #: ../error.cgi:48
 msgid ""
-"An error occurred while executing DuD-Poll.<br/>Please send an error report, "
+"An error occurred while executing MezBOX-Umfrage.<br/>Please send an error report, "
 "including your browser, operating system, and what you did to %{admin}."
 msgstr ""
-"Okazis eraro dum plenumado de DuD-Poll.<br/>Bonvolu sendi erarmesaĝon, "
+"Okazis eraro dum plenumado de MezBOX-Umfrage.<br/>Bonvolu sendi erarmesaĝon, "
 "inkluzive vian foliumilon, mastruman sistemon kaj kion vi faris, al %{admin}."
 
 #: ../error.cgi:51
@@ -606,8 +606,8 @@ msgid "Visit the poll yourself:"
 msgstr "Mem viziti la voĉdonilon: "
 
 #: ../overview.rb:36
-msgid "Link to DuD-Poll about %{polltitle}"
-msgstr "Ligilo al DuD-Poll-voĉdonilo pri %{polltitle}"
+msgid "Link to MezBOX-Umfrage about %{polltitle}"
+msgstr "Ligilo al MezBOX-Umfrage-voĉdonilo pri %{polltitle}"
 
 #: ../participate.rb:59
 msgid "The changes were saved, you should be redirected to %{link}."

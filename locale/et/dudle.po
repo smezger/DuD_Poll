@@ -180,8 +180,8 @@ msgid "In order to proceed, you have to give the password for user %{user}."
 msgstr "Selleks, et minna, sa pead andma parool kasutaja %{user}."
 
 #: ../authorization_required.cgi:53 ../not_found.cgi:36
-msgid "Return to DuD-Poll home and schedule a new poll"
-msgstr "Tagasi DuD-Poll kodus ja ajakava uus küsitlus"
+msgid "Return to MezBOX-Umfrage home and schedule a new poll"
+msgstr "Tagasi MezBOX-Umfrage kodus ja ajakava uus küsitlus"
 
 #: ../authorization_required.cgi:54
 msgid "You have to authorize yourself in order to access this page!"
@@ -361,8 +361,8 @@ msgid "Customize"
 msgstr "Kohanda"
 
 #: ../dudle.rb:100
-msgid "DuD-Poll Home"
-msgstr "DuD-Poll kodu"
+msgid "MezBOX-Umfrage Home"
+msgstr "MezBOX-Umfrage kodu"
 
 #: ../dudle.rb:208 ../dudle.rb:226
 msgid "Previous"
@@ -448,12 +448,12 @@ msgstr ""
 "Teil, \n"
 
 #: ../error.cgi:46
-msgid "Bug in DuD-Poll"
-msgstr "Viga DuD-Poll"
+msgid "Bug in MezBOX-Umfrage"
+msgstr "Viga MezBOX-Umfrage"
 
 #: ../error.cgi:48
 msgid ""
-"An error occurred while executing DuD-Poll.<br/>Please send an error report, "
+"An error occurred while executing MezBOX-Umfrage.<br/>Please send an error report, "
 "including your browser, operating system, and what you did to %{admin}."
 msgstr ""
 "Tekkis viga täidesaatva kritseldama. <br/>Palun saada veateate:Sealhulgas "
@@ -609,8 +609,8 @@ msgid "Visit the poll yourself:"
 msgstr "Külasta küsitlus ise:"
 
 #: ../overview.rb:36
-msgid "Link to DuD-Poll about %{polltitle}"
-msgstr "Link DuD-Poll küsitluse kohta %{polltitle}"
+msgid "Link to MezBOX-Umfrage about %{polltitle}"
+msgstr "Link MezBOX-Umfrage küsitluse kohta %{polltitle}"
 
 #: ../participate.rb:59
 msgid "The changes were saved, you should be redirected to %{link}."
