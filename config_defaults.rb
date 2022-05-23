@@ -61,7 +61,7 @@ $conf.aboutnotice = ""
 
 $conf.default_css = "default.css"
 
-$conf.dudle_src = "https://github.com/kellerben/dudle/"
+$conf.dudle_src = "https://github.com/smezger/MezBOX_Umfrage"
 
 $conf.bots = /bot/i
 

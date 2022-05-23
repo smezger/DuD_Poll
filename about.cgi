@@ -26,8 +26,10 @@ require_relative "dudle"
 $d = Dudle.new
 
 $d << "<div>"
-$d << _('This application is powered by %{DuDPoll}.') % {:DuDPoll => "<a href='https://MezBOX-Umfrage.inf.tu-dresden.de'>MezBOX-Umfrage</a>"}
+$d << _('This application is powered by %{DuDPoll}.') % {:DuDPoll => "<a href='https://github.com/smezger/MezBOX_Umfrage'>MezBOX-Umfrage</a>"}
 $d << "</div>"
+$d << "<div><h2> Remark</h2>"
+$d << _("This is a private website operated only for MezBOX users.</div>")
 $d << "<div><h2>" + _("License") + "</h2>"
 $d << _("The sourcecode of this application is available under the terms of <a href='http://www.fsf.org/licensing/licenses/agpl-3.0.html'>AGPL Version 3</a>.")
 $d << _("The sourcecode of this application can be found %{a_start}here%{a_end}.") % { :a_start => "<a href=\"#{$conf.dudle_src}\">", :a_end => "</a>"}
